@@ -10,7 +10,7 @@ class WebAppInitData {
   external String? get query_id;
   external WebAppUser? get user;
   external WebAppUser? get receiver;
-  external WeAppChat? get chat;
+  external WebAppChat? get chat;
   external String? get chat_type;
   external String? get chat_instance;
   external String? get start_param;
